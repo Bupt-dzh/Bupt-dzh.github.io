@@ -4,8 +4,12 @@
 
 ### 代码生活
 
+
 ### 编程笔记
 
+- [Python Notes](https://github.com/Bupt-dzh/Python-Notes)
+
 ### 突发奇想
+
 
 ## 春风得意马蹄疾，一日看尽长安花
