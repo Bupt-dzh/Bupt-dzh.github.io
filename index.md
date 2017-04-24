@@ -4,6 +4,7 @@
 
 ### 代码生活
 
+- [Python Codes](https://github.com/Bupt-dzh/Python-Codes)
 
 ### 编程笔记
 
