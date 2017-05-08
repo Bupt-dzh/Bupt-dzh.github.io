@@ -6,13 +6,19 @@
 
 - [Python Codes](https://github.com/Bupt-dzh/Python-Codes)
 
+
 ### 编程笔记
 
 - [Python Notes](https://github.com/Bupt-dzh/Python-Notes)
 - [C Notes](https://github.com/Bupt-dzh/C-Notes)
+- [Linux](https://github.com/Bupt-dzh/Linux)
 
 ### 突发奇想
 
+
+### 多彩生活
+
+- [English Articles](https://github.com/Bupt-dzh/English-Articles)
 
 
 ### 近期将要更新
