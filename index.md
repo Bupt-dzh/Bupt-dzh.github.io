@@ -16,10 +16,8 @@
 
 
 ### 近期将要更新
-- 如何在linux下使用shadowsocks访问Google
-- 如何在linux下使用Git进行本地开发以及与远程仓库的版本交互的基础操作
 - 完善C Notes中main函数讲解的细节
-- 分享一段not boring的视频
+- How not to be boring
 
 
 ## 春风得意马蹄疾，一日看尽长安花
